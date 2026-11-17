@@ -1,0 +1,6 @@
+{
+  "name": "SmartCare",
+  "description": "SmartCare – Smart Complaint Management System for colleges and educational institutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
